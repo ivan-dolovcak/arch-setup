@@ -1,0 +1,9 @@
+label: gpt
+
+size=512MiB, type=U, name="ESP"
+
+size=2GiB, type=S, name="swap"
+
+size=12GiB, type=L, name="root"
+
+type=L, name="home"
